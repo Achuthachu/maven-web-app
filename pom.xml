@@ -96,13 +96,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Gas-Release</name>
+	      <name>madhu</name>
 	      <url>http://52.66.91.237:8081/repository/madhu/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Gas Snapshots</name>
+	      <name>madhu_snapshot</name>
 	      <url>http://52.66.91.237:8081/repository/madhu_snapshot/</url>
 	    </snapshotRepository>
 	    
