@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>admin</id>
-	      <name>madhu</name>
-	      <url>http://65.2.9.163:8081/repository/madhu/</url>
+	      <name>achuth</name>
+	      <url>http://65.2.9.163:8081/repository/achuth/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>admin</id>
-	      <name>madhu-snapshot</name>
-	      <url>http://65.2.9.163:8081/repository/madhu-snapshot/></url>
+	      <name>achuth_snapshot</name>
+	      <url>http://65.2.9.163:8081/repository/achuth_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
