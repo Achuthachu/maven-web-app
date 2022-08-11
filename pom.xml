@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>admin</id>
 	      <name>madhu</name>
-	      <url>http://52.66.91.237:8081/repository/madhu/</url>
+	      <url>http://65.2.9.163:8081/repository/madhu/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>admin</id>
 	      <name>madhu_snapshot</name>
-	      <url>http://52.66.91.237:8081/repository/madhu_snapshot/</url>
+	      <url>http://65.2.9.163:8081/repository/madhu-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
