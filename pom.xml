@@ -102,7 +102,7 @@
 	    
 	    <snapshotRepository>
 	      <id>admin</id>
-	      <name>madhu_snapshot</name>
+	      <name>madhu-snapshot</name>
 	      <url>http://65.2.9.163:8081/repository/madhu-snapshot/</url>
 	    </snapshotRepository>
 	    
