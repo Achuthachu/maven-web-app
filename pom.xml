@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>achuth</name>
-	      <url>http://65.2.9.163:8081/repository/achuth/</url>
+	      <url>http://35.154.180.14:8081/repository/priyanka/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>achuth_snapshot</name>
-	      <url>http://65.2.9.163:8081/repository/achuth_snapshot/</url>
+	      <url>http://35.154.180.14:8081/repository/priyanka_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
