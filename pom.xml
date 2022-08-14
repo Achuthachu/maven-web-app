@@ -95,13 +95,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>admin</id>
+	      <id>nexus</id>
 	      <name>priyanka</name>
 	      <url>http://35.154.180.14:8081/repository/priyanka/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>admin</id>
+	      <id>nexus</id>
 	      <name>priyanka_snapshot</name>
 	      <url>http://35.154.180.14:8081/repository/priyanka_snapshot/</url>
 	    </snapshotRepository>
