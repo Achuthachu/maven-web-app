@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>santosh_snapshot</name>
-	      <url>http://3.109.62.200:8081/repository/santosh_snapshot/></url>
+	      <url>http://3.109.62.200:8081/repository/santosh_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
