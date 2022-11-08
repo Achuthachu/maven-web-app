@@ -102,7 +102,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>achuth_snapshot</name>
+	      <name>achuth-snapshot</name>
 	      <url>http://3.110.159.96:8081/repository/achuth-snapshot/</url>
 	    </snapshotRepository>
 	    
